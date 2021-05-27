@@ -19,6 +19,7 @@ Its main function is the ability to play a given song from the list.
 Project is created with:
 - Android Studio version: 4.1.1
 - Java version: 16
+- Project SDK version: 11.0 (API 30)
 
 ## Features
 The main function of the application is the ability to play a given song from the list of given songs.
