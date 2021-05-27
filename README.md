@@ -17,7 +17,7 @@ Its main function is the ability to play a given song from the list.
 
 ## Technologies
 Project is created with:
-- Android Studio version: 4.1.3
+- Android Studio version: 4.1.1
 - Java version: 16
 
 ## Features
