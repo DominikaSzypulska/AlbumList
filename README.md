@@ -28,7 +28,7 @@ The main function of the application is the ability to play a given song from th
 - The ability to add and remove songs from the list
 
 ## Screenshots
-Example screenshot showing the operation of the mobile application:
+Example screenshot showing the operation of the mobile application.
 
 The appearance of the application:<br>
 ![Random population](/images/menu.png)
